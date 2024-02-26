@@ -2,10 +2,14 @@
 
 Welcome to Dragon Repeller, a simple text-based RPG where you embark on a quest to defeat the dragon that threatens the town. This guide provides an overview of the game's logic and instructions on how to play.
 
-<img width="540" alt="town" src="/img/town.png">
-<img width="540" alt="store" src="/img/store.png">
-<img width="540" alt="cave" src="/img/cave.png">
-<img width="540" alt="dragon" src="/img/dragon.png">
+<img width="540" alt="cave" src="https://github.com/Kaisama/FCC-JS-and-Data-Structure-Beta-/assets/109125241/43ef338b-85a4-443c-9ed0-a88df145220a"><br><hr>
+
+<img width="540" alt="dragon" src="https://github.com/Kaisama/FCC-JS-and-Data-Structure-Beta-/assets/109125241/7a2bce4a-d443-4a12-84c1-b43d2cac2464"><br><hr>
+
+<img width="540" alt="store" src="https://github.com/Kaisama/FCC-JS-and-Data-Structure-Beta-/assets/109125241/5570148c-320e-4b1d-86e1-9ae39cbbe37b"><br><hr>
+
+
+<img width="540" alt="town" src="https://github.com/Kaisama/FCC-JS-and-Data-Structure-Beta-/assets/109125241/d16c62a4-4e2d-4686-b585-40e4b93ac509"><br><hr>
 
 ## Game Overview
 
