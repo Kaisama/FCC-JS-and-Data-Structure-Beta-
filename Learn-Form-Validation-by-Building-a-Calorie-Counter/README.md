@@ -5,10 +5,6 @@ Learn Form Validation by Building a Calorie Counter.  JavaScript Algorithms and 
 
 Uses HTML5, CSS3 amd JavaScript.  Makes use of regular expressions, template literals, the `addEventListener()` method and more.
 
-## Deployment
-
-[Live Project](https://Kaisama.github.io/build-a-calorie-counter) is deployed on the main branch.
-
 
 
 ### Acknowledgements
